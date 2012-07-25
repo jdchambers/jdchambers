@@ -1,0 +1,7 @@
+A simple homepage for myself
+
+Sections:
+welcome (generalities) - includes "news" (really really basic updates)
+documents/works - thesis works, written stuff
+photography - panorama sets. Graphiti photo sets. (probably just embed picasa or similar, except for panoramas which get own section)
+Code+downloads
