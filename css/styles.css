@@ -35,11 +35,6 @@ p {
 	font-size: 0.9em;
 	}
 
-h1, h2, h3, h4, h5, h6 {
-  color:#222;
-  margin:0 0 20px;
-}
-
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
@@ -48,16 +43,17 @@ h1, h2, h3 {
   line-height:1.1;
 }
 
-h1 {
-  font-size:28px;
-}
 
-h2 {
-  color:#393939;
-}
 
-h3, h4, h5, h6 {
+h4, h5, h6 {
   color:#494949;
+}
+
+.date {
+    color: #3399CC;
+    font-weight: 400;
+    text-decoration: none;
+    font-size: 0.9em;
 }
 
 a {

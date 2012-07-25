@@ -13,10 +13,14 @@ title: homepage
               {{ post.title }}
             </a>
         </h3>
-        <span class="view" 
-            title="{{ post.date | date_to_xmlschema }}">
-            {{ post.date }}
+                
+        <span class="date" 
+              title="{{ post.date | date_to_xmlschema }}">
+              published: {{ post.date | date: '%d' }}
+              / {{ post.date | date: '%b' }} / 
+              {{ post.date | date: '%Y' }}
         </span>
+          
           {{ post.content }}
         </div>
     </article> 
