@@ -119,7 +119,7 @@ nav li a {
 	}
 
 nav li a:hover {
-	background: #222 url('arrow_dark.gif') no-repeat top center;
+	background: #222 url('../img/arrow_dark.gif') no-repeat top center;
 	}
 
 /* ==============
@@ -229,7 +229,7 @@ background-color:#ffffff;
 	}
 
 #right li a:hover, .right2 li a:hover {
-	background: #222 url('bullet_dark.gif') no-repeat left center;
+	background: #222 url('../img/bullet_dark.gif') no-repeat left center;
 	}
 	
 h1 {
@@ -330,7 +330,7 @@ article ul {
 	
 article ul li {
 	padding-left: 17px;
-	background: url('bullet2_dark.gif') no-repeat left center;
+	background: url('../img/bullet2_dark.gif') no-repeat left center;
 	margin-left: 10px;
 	}
 
