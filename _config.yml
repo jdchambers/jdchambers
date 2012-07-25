@@ -6,7 +6,7 @@ navigation:
   url: index.html
 - text: CODE
   url: code.html
-- text: BLOG
-  url: blog.html
+- text: DOC
+  url: docs.html
 - text: PHOTO
   url: photo.html

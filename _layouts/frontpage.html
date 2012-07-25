@@ -1,0 +1,23 @@
+---
+layout: default
+title: Home
+---
+
+<h3>About</h3>
+<p>Energy and Environment specialist.<p>
+
+{% for post in site.posts %}
+    <article>
+        <h3 class="clear">
+            <a href="{{ post.url }}/" title="{{ post.title }}"> 
+              {{ post.title }}
+            </a>
+        </h3>
+        <span class="view" 
+            title="{{ post.date | date_to_xmlschema }}">
+            {{ post.date }}
+        </span>
+          {{ post.content }}
+        </div>
+    </article> 
+{% endfor %}
