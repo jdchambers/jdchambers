@@ -1,2 +1,12 @@
 safe: true
 pygments: true
+
+navigation:
+- text: HOME
+  url: index.html
+- text: CODE
+  url: code.html
+- text: BLOG
+  url: blog.html
+- text: PHOTO
+  url: photo.html
