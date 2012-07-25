@@ -106,10 +106,9 @@ header {
 header h1 {
 	font: 400 4em arial,sans-serif;
 	color: #FFF;
-	margin-top: 90px;
+	margin-top: 70px;
 	margin-bottom: 0px;
 	padding-bottom: 0px;
-	letter-spacing: -0.1em;
 	}
 
 header h2 {
@@ -117,7 +116,6 @@ header h2 {
 	margin-top: -0.1em;
 	padding: 0;
 	margin-bottom: 20px;
-	letter-spacing: -0.1em;
 	}
 
 header ul {
@@ -196,7 +194,8 @@ header nav li {
 	}
 	
 header nav li a {
-	margin-left: 20px;
+	margin-left: 0px;
+	margin-right: 10px;
 	padding-top: 10px;
 	display: block;
 	text-decoration: none;
@@ -232,7 +231,6 @@ h2 {
 h3 {
 	font: 400 1.2em arial,sans-serif;
 	color: #AAA;
-	letter-spacing: -0.1em;
 	margin-bottom: 10px;
 	}
 	
