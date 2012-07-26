@@ -79,6 +79,7 @@ blockquote {
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;
+  background-color: #252525
 }
 
 code, pre {
@@ -253,17 +254,7 @@ img.content, a img.content {
 a:hover img.content {
 	border: 1px solid #000;
 	}
-	
-img.color, a img.color {
-	float: left;
-	padding: 1px;
-	border: 1px solid #444;
-	margin: 0 8px 0 0;
-	}
-	
-a:hover img.color {
-	border: 1px solid #999;
-	}
+
 	
 ol {
 	color: #AAA;
