@@ -13,9 +13,10 @@ title: Code
 [full size screenshot](img/spyder-mac.png)
 
 You can run it via the command line from the source directory using:
-```bash
+```sh
 python bootstrap.py
 ```
+
 You need its dependancies installed, see them at the [spyderlib wiki](http://code.google.com/p/spyderlib/wiki/Installation).
 
 ***
