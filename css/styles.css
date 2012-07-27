@@ -3,8 +3,8 @@
 body {
   padding:50px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #666;
-	background-color: #222;
+  color: #888;
+  background-color: #222;
   font-weight:300;
 }
 
@@ -31,7 +31,7 @@ h3 {
 p {
 	line-height: 1.8em;
 	margin: 10px 0 20px 0;
-	color: #999;
+	color: #aaa;
 	font-size: 0.9em;
 	}
 
