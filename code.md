@@ -37,6 +37,8 @@ The second version is my attempt to use numpy to accelerate the actual vector op
 
 HOWEVER, due to the immaturity of the code and some bugs which i haven't tracked down yet, the result is actually slower than without numpy, and also less stable. One day, i will fix this!
 
+Obviously, this version depends on numpy being installed as well as pyglet.*
+
 See the code:
 
 [Github Repo](https://github.com/jdchambers/pyboids)
@@ -48,3 +50,6 @@ python engine.py
 
 (on mac/linux terminal, windows YMMV)
 
+***
+
+* Note on installing numpy on OSX: DON'T. There are all sorts of tutorials and installers out there, but none of them mention something very important: OSX COMES WITH NUMPY ALREADY INSTALLED. So if you use the default python interpreter provided by apple, you will already have numpy installed - no need to install another interpreter or compile anything. So unless you have special requirements you're good to go!
